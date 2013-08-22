@@ -160,7 +160,7 @@
     </message>
     <message>
         <source>Not allowed.</source>
-        <translation>Não permitido</translation>
+        <translation type="unfinished">Não permitido.</translation>
     </message>
     <message>
         <source>You are not allowed to copy from the password field.</source>
